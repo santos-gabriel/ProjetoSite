@@ -5,9 +5,9 @@
             <h2 class="section-title">Sobre mim</h2>
           </div>
           <div class="col-lg-6 order-2 order-lg-1">
-            <img class="img-fluid mb-4" src="images/credo_img_1.jpg" alt="Image">
-            <p>Me chamo Gabriel Almeida e tenho 19 anos, um amante da tecnologia e apaixonado por café. Atualmente estou no terceiro período do curso de Análise e Desenvolvimento de Sistemas, colaboro com uma equipe que presta suporte e cuida da infraestrutura de uma clínica psiquiátrica, participo de um projeto para criação e implantação de um sistema que possui a finalidade de auxiliar na gestão de estoque em uma loja varejista situada no interior de Goiás.</p>
-            <p>Busco sempre atualizar meus conhecimentos. Sobre a questão de desenvolvimento não sou nenhum expert, porém estou sempre aprimorando seja fazendo cursos ou desenvolvendo projetos.</p>
+            <img class="img-fluid mb-4" src="images/about.jpg" alt="Image">
+            <p>Me chamo Gabriel Almeida tenho 19 anos, sou um amante da tecnologia e apaixonado por café. Atualmente estou no quarto período do curso superior em Análise e Desenvolvimento de Sistemas, colaboro com uma equipe que desenvolve e mantém três sistemas carros chefes, participo de um projeto para criação e implantação sobre um sistema que tem como a finalidade auxiliar na gestão de estoque em uma loja varejista de calçados situada no interior de Goiás.</p>
+            <p>Busco sempre atualizar meus conhecimentos. Estou sempre em busca de crescimento tanto pessoal como profissional seja fazendo cursos ou desenvolvendo projetos. Procuro fazer com que meus conhecimentos possam vir a auxiliar desenvolvendo soluções, e assim aprendendo cada vez mais.</p>
           </div>
           
           <div class="col-lg-6 order-3 pl-lg-5 order-lg-2">
@@ -28,6 +28,16 @@
                 <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
                   style="width: 65%;">
                   <span>65%</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-5">
+              <strong class="text-black">Delphi</strong>
+              <div class="progress">
+                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" 
+                  style="width: 45%;">
+                  <span>45%</span>
                 </div>
               </div>
             </div>
