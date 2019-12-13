@@ -2,7 +2,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12 mb-5 position-relative">
-            <h2 class="section-title text-center mb-5 text-white">What Client Are Sayings</h2>
+            <h2 class="section-title text-center mb-5 text-white">Comentários</h2>
           </div>
         </div>
         <div class="owl-carousel slide-one-item">

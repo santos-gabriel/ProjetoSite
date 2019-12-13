@@ -31,8 +31,8 @@
               <div class="col-lg-6">
                 <h1 class="text-white">Gabriel Santos</h1>
                 <p class="text-secondary">Estudante<span class="mx-3">|</span>Desenvolvedor</p>
-                <p class="lead">Me chamo Gabriel estou começando neste mundo enorme chamando de Tecnologia da Informãção,
-                 me apresento melhor na seção específica para tal assunto</p>
+                <p class="lead">Me chamo Gabriel sou desenvolvedor, estudante e apaixonado por café. 
+                                Caso queira me conhecer mais acesse o link a baixo! </p>
                 <p><a href="#about-section" class="btn smoothscroll btn-primary">Mais Sobre</a></p>
               </div>
             </div>

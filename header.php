@@ -21,7 +21,7 @@
 
             <nav class="site-navigation position-relative" role="navigation">
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="#portfolio-section" class="nav-link">Photograpy</a></li>
+                <li><a href="#portfolio-section" class="nav-link">Sistemas</a></li>
                 <li><a href="#blog-section" class="nav-link">Projetos</a></li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contato</a>
@@ -29,6 +29,8 @@
                     <a class="dropdown-item" href="https://www.github.com/Santos-Gabriel" target="_blank">GitHub</a>
                     <a class="dropdown-item" href="https://www.instagram.com/gabriell_almeida" target="_blank">Instagram</a>
                     <a class="dropdown-item" href="https://www.linkedin.com/in/gabriel-almeida-dos-santos" target="_blank">Linkedin</a>
+                    <a class="dropdown-item" href="https://t.me/santos_gabriel" target="_blank">Telegram</a>
+                    <a class="dropdown-item" href="https://api.whatsapp.com/send?1=pt_br&phone=5562994637932" target="_blank">Whatsapp</a>
                   </div>
                 </li>
               </ul>

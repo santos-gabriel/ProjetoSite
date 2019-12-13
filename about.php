@@ -6,7 +6,7 @@
           </div>
           <div class="col-lg-6 order-2 order-lg-1">
             <img class="img-fluid mb-4" src="images/about.jpg" alt="Image">
-            <p>Me chamo Gabriel Almeida tenho 19 anos, sou um amante da tecnologia e apaixonado por café. Atualmente estou no quarto período do curso superior em Análise e Desenvolvimento de Sistemas, colaboro com uma equipe que desenvolve e mantém três sistemas carros chefes, participo de um projeto para criação e implantação sobre um sistema que tem como a finalidade auxiliar na gestão de estoque em uma loja varejista de calçados situada no interior de Goiás.</p>
+            <p>Me chamo Gabriel Almeida tenho 19 anos, sou um amante da tecnologia e apaixonado por café. Atualmente estou no quarto período do curso superior de tecnologia em Análise e Desenvolvimento de Sistemas, colaboro com uma equipe de desenvolvimento e manutenção sobre três sistemas carros chefes, participo de um projeto para criação e implantação sobre um sistema que tem como a finalidade auxiliar na gestão de estoque em uma loja varejista de calçados situada no interior de Goiás.</p>
             <p>Busco sempre atualizar meus conhecimentos. Estou sempre em busca de crescimento tanto pessoal como profissional seja fazendo cursos ou desenvolvendo projetos. Procuro fazer com que meus conhecimentos possam vir a auxiliar desenvolvendo soluções, e assim aprendendo cada vez mais.</p>
           </div>
           

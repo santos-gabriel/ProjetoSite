@@ -41,7 +41,9 @@
             <!-- <a href="#" class="social-circle p-2"><span class="icon-dribbble"></span></a> -->
             <a href="https://www.github.com/Santos-Gabriel" class="social-circle p-2"><span class="icon-github"></span></a>
             <a href="https://www.linkedin.com/in/gabriel-almeida-dos-santos" class="social-circle p-2"><span class="icon-linkedin"></span></a>
-            <a href="mailto:gabrielalmeidads@gmail.com?subject=Hello%20again"><span class="icon-envelope"></span></a>
+            <a href="mailto:gabrielalmeidads@gmail.com?subject=Hello%20again" class="social-circle p-2"><span class="icon-envelope"></span></a>
+            <a href="https://api.whatsapp.com/send?1=pt_br&phone=5562994637932" class="social-circle p-2"><span class="icon-whatsapp"></span></a>
+            <a href="https://t.me/santos_gabriel" class="social-circle p-2"><span class="icon-telegram"></span></a>
           </div>
         </div>
 
@@ -50,10 +52,10 @@
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             <p>Copyright &copy;
             <script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | By <i
-              class="icon-heart-o" aria-hidden="true"></i><a href="https://colorlib.com" target="_blank"> GS Develpment</a></p>
+              class="icon-heart-o" aria-hidden="true"></i><a href="http://localhost/dev/wsprojetos/projetosite/project/index.php" target="_blank"> GS Develpment</a></p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            
           </div>
         </div>
+        
       </div>
     </footer>
