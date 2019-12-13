@@ -29,7 +29,7 @@
           <div class="col-md-12 mt-lg-5 text-left align-self-center text-intro">
             <div class="row">
               <div class="col-lg-6">
-                <h1 class="text-white">Gabriel Almeida</h1>
+                <h1 class="text-white">Gabriel Santos</h1>
                 <p class="text-secondary">Estudante<span class="mx-3">|</span>Desenvolvedor</p>
                 <p class="lead">Me chamo Gabriel estou começando neste mundo enorme chamando de Tecnologia da Informãção,
                  me apresento melhor na seção específica para tal assunto</p>
