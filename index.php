@@ -17,15 +17,14 @@
     </div>
    
     <div>
-	<?php include_once('header.php'); ?>
-	</div>
+	    <?php include_once('header.php'); ?>
+	  </div>
 
 
     <div class="site-blocks-cover overlay bg-light" id="home-section">
 
       <div class="container">
         <div class="row justify-content-center">
-
           <div class="col-md-12 mt-lg-5 text-left align-self-center text-intro">
             <div class="row">
               <div class="col-lg-6">
@@ -37,46 +36,48 @@
               </div>
             </div>
           </div>
-            
         </div>
       </div>
-
       <img src="images/credo_img_1.jpg" alt="Image" class="img-face">
-      
+
     </div>  
 
     
-    <div>
-	<?php include_once('tecnologias.php'); ?>
-	</div>
-
 
     <div>
-	<?php include_once('about.php'); ?>
-	</div>
-
+      <?php include_once('about.php'); ?>
+    </div>
 
     <div>
-	<?php include_once('fotos.php'); ?>
-	</div>
+      <?php include_once('fotos.php'); ?>
+    </div>
+
+    <div>
+      <?php include_once('blog.php'); ?>
+    </div>
+
+    <div>
+      <?php include_once('tecnologias.php'); ?>
+    </div>
 
     
-	<div>
-	<?php include_once('comentarios.php'); ?>
-	</div>
 
+  
+    <div>
+      <?php include_once('comentarios.php'); ?>
+    </div>
+  
     
-	<div>
-	<?php include_once('blog.php'); ?>
-	</div>
+    
+
 
     <div>
-	<?php include_once('contato.php'); ?>
-	</div>
-
+      <?//php include_once('contato.php'); ?>
+    </div>
+  
     <div>
-	<?php include_once('footer.php'); ?>
-	</div>
+      <?php include_once('footer.php'); ?>
+    </div>
     
 
   </div> <!-- .site-wrap -->

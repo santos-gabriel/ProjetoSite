@@ -51,8 +51,8 @@
           <div class="col-12 text-center">
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             <p>Copyright &copy;
-            <script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | By <i
-              class="icon-heart-o" aria-hidden="true"></i><a href="http://localhost/dev/wsprojetos/projetosite/project/index.php" target="_blank"> GS Develpment</a></p>
+            <script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Powered By <i
+              class="icon-cog" aria-hidden="true"></i><a href="http://localhost/dev/wsprojetos/projetosite/project/index.php" target="_blank"> Colorlib & GS Development</a></p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
           </div>
         </div>

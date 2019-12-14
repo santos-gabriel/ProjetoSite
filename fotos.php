@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 position-relative">
-            <h2 class="section-title text-center mb-5">Meus Sistemas</h2>
+            <h2 class="section-title text-center mb-5">Certificados e Licenças</h2>
           </div>
         </div>
 
