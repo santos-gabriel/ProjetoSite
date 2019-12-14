@@ -11,9 +11,9 @@
 
         <div class="row">
           <div class="col-md-6 col-lg-4 item">
-            <a href="images/img_1.jpg" class="item-wrap fancybox mb-4">
+            <a href="images/JFGame3.jpg" class="item-wrap fancybox mb-4">
               <span class="icon-search2"></span>
-              <img class="img-fluid" src="images/img_1.jpg">
+              <img class="img-fluid" src="images/JFGame3.jpg">
             </a>
             <a href="images/img_2.jpg" class="item-wrap fancybox mb-4">
               <span class="icon-search2"></span>
