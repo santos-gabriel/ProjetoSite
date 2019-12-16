@@ -656,6 +656,7 @@ body:after {
       line-height: 50px;
       border-radius: 50%;
       background: #fab95b;
+      /*background: black;*/
       display: inline-block;
       color: #fff;
       text-align: center; }

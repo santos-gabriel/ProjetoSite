@@ -1,5 +1,5 @@
 
-<section class="site-section bg-primary">
+<section class="site-section bg-dark">
   
       <div class="container">
         <div class="row">

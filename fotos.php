@@ -1,4 +1,4 @@
-<section class="site-section block__62272 bg-primary" id="portfolio-section">
+<section class="site-section block__62272 bg-dark" id="portfolio-section">
       
 
       <div class="container">
@@ -10,16 +10,16 @@
 
         <div class="row">
           <div class="col-md-8 col-lg-6">
-            <a href="https://www.udemy.com/certificate/UC-FKMTGXPV/"><span class="icon-trophy" style="color: white"> Programador Delphi - Sistemas com Delphi e MySql</span></a>
+            <a href="https://www.udemy.com/certificate/UC-FKMTGXPV/"><span class="icon-trophy" style="color: yellow"></span><span> Programador Delphi - Sistemas com Delphi e MySql</span></a>
           </div>
 
           <div class="col-md-8 col-lg-6">
-            <a href="https://www.udemy.com/certificate/UC-PK7693IH/"><span class="icon-trophy" style="color: white"> Dominando Banco de Dados com MySql</span></a>
+            <a href="https://www.udemy.com/certificate/UC-PK7693IH/"><span class="icon-trophy" style="color: yellow"></span><span> Dominando Banco de Dados com MySql</span></a>
           </div>
 
-          <div class="col-md-8 col-lg-6">
+          <div class="col-md-16 col-lg-12">
             <br>
-            <a href="https://www.cursoemvideo.com/wp-content/uploads/2019/09/973-221944.jpeg"><span class="icon-trophy" style="color: white"> Algoritmo e Lógica de Programação</span></a>
+            <a href="https://www.cursoemvideo.com/wp-content/uploads/2019/09/973-221944.jpeg"><span class="icon-trophy" style="color: yellow"></span><span> Algoritmo e Lógica de Programação</span></a>
           </div>
 
         </div>
