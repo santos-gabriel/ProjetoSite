@@ -38,7 +38,7 @@
           </div>
         </div>
       </div>
-      <img src="images/credo_img_1.jpg" alt="Image" class="img-face">
+      <img src="images/imgTopo.jpg" alt="Image" class="img-face">
 
     </div>  
 
