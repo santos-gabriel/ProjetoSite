@@ -22,7 +22,7 @@
 
           <div class="col-md-6 mb-5 mb-lg-0 col-lg-4">
             <div class="blog_entry">
-              <a href="single.html"><img src="images/GNE.jpg" alt="Image" class="img-fluid"></a>
+              <a href="single.html"><img src="images/ProjetoGne.jpg" alt="Image" class="img-fluid"></a>
               <div class="p-4 bg-white">
                 <h3><a href="single.html">GNE</a></h3>
                 <span class="date">Julho 25, 2019</span>
@@ -34,7 +34,7 @@
 
           <div class="col-md-6 mb-5 mb-lg-0 col-lg-4">
             <div class="blog_entry">
-              <a href="single.html"><img src="images/JFGame.jpg" alt="Image" class="img-fluid"></a>
+              <a href="single.html"><img src="images/projetoJfgame.jpg" alt="Image" class="img-fluid"></a>
               <div class="p-4 bg-white">
                 <h3><a href="single.html">JF Game</a></h3>
                 <span class="date">Outubro 25, 2018</span>
