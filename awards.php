@@ -9,15 +9,21 @@
         </div>
 
         <div class="row">
+
+          <div class="col-md-8 col-lg-6">
+            <span class="icon-trophy" style="color: black;"></span><span style="color: #808080;"> Graduação em Análise e Desenvolvimento de Sistemas - Em Progresso</span>
+          </div>
+
           <div class="col-md-8 col-lg-6">
             <a href="https://www.udemy.com/certificate/UC-FKMTGXPV/"><span class="icon-trophy" style="color: yellow"></span><span style="color: white;"> Programador Delphi - Sistemas com Delphi e MySql</span></a>
           </div>
 
           <div class="col-md-8 col-lg-6">
+            <br>
             <a href="https://www.udemy.com/certificate/UC-PK7693IH/"><span class="icon-trophy" style="color: yellow"></span><span style="color: white;"> Dominando Banco de Dados com MySql</span></a>
           </div>
 
-          <div class="col-md-16 col-lg-12">
+          <div class="col-md-8 col-lg-6">
             <br>
             <a href="https://www.cursoemvideo.com/wp-content/uploads/2019/09/973-221944.jpeg"><span class="icon-trophy" style="color: yellow"></span><span style="color: white;"> Algoritmo e Lógica de Programação</span></a>
           </div>
