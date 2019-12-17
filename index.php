@@ -59,17 +59,10 @@
     <div>
       <?php include_once('tecnologias.php'); ?>
     </div>
-
-    
-
   
     <div>
       <?php include_once('comentarios.php'); ?>
     </div>
-  
-    
-    
-
 
     <div>
       <?//php include_once('contato.php'); ?>

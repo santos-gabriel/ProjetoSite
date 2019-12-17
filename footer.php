@@ -6,12 +6,13 @@
             <p>Stay Hungry Stay Foolish <strong>| <i>By Steve Jobs</i></strong></p>
             <p><span class="d-inline-block d-md-block">74000000 Aparecida de Goiânia-GO Brasil</span> <!--San Francisco, California, USA--></p>
           </div>
+
           <div class="col-md-5 mx-auto">
             <div class="row">
               <div class="col-lg-4">
                 <h3 class="footer-title">Serviços</h3>
                 <ul class="list-unstyled">
-                  <li><a>Desenvolvimento de Sistemas</a></li>
+                  <li><a>Desenvolvimento</a></li>
                   <li><a>Infraestrutura</a></li>
                 </ul>
               </div>
@@ -33,6 +34,7 @@
               </div>
             </div>
           </div>
+
           <div class="col-md-3">
             <h3 class="footer-title">Me Siga</h3>
             <!-- <a href="#" class="social-circle p-2"><span class="icon-twitter"></span></a>
