@@ -49,19 +49,19 @@
     </div>
 
     <div>
-      <?php include_once('fotos.php'); ?>
+      <?php include_once('awards.php'); ?>
     </div>
 
     <div>
-      <?php include_once('blog.php'); ?>
+      <?php include_once('projects.php'); ?>
     </div>
 
     <div>
-      <?php include_once('tecnologias.php'); ?>
+      <?php include_once('technology.php'); ?>
     </div>
   
     <div>
-      <?php include_once('comentarios.php'); ?>
+      <?php include_once('comments.php'); ?>
     </div>
 
     <div>
